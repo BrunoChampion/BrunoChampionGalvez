@@ -26,9 +26,11 @@
 <h2>Resume 📄</h2>
 https://docs.google.com/document/d/10pJBILXc1tA4IlmfwfubrIBFNkqiTFB54qohdMxJdJY/edit?usp=sharing
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 1. AI APIs: OpenAI, Gemini, Pinecone (Vector database)
+</br>
 2. Backend: NestJS, Express.js, PostgreSQL, MongoDB
+</br>
 3. Frontend: Next.js, React.js, TailwindCSS, Vue.js
 
 <h2>Fun fact ⚡</h2> 
