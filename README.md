@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bruno Champion</h1>
+<h1 align="center">Hi 👋, I'm Bruno</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Perú</h3>
 <br/>
 <h2>Who am I 🤓?</h2>
