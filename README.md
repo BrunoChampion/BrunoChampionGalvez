@@ -10,28 +10,29 @@
 <h2>What technologies do I use 🧑‍💻?</h2>
 <p align="justify">The techonologies that I work with are Next.js, React.js, NestJS, Express.js, PostgreSQL, MongoDB, and TailwindCSS.</p>
 
-<h2>Contact me 🫡</h2>
-<p align="justify">Feel free to contact ME, we can have A meeting to chat with nothing in return. I will be happy to help you in any way I can 🙌!</p>
-
-<p>Email: brunochampiongalvez@gmail.com</p>
-<p>LinkedIn: [www.linkedin.com/in/bruno-champion-gálvez-427aba188](https://www.linkedin.com/in/bruno-champion-galvez-427aba188/)</p>
-
-- 📄 I’m currently the founder of **PDFizz AI**, take a look at [https://pdfizzai.vercel.app/](https://pdfizzai.vercel.app/)
+<h2>Projects 🏗️</h2>
+- 📄 I’m the founder of **PDFizz AI**, an AI PDF assistant, take a look at [https://pdfizzai.vercel.app/](https://pdfizzai.vercel.app/)
   - We are currently in a closed beta stage
   - **BUT**, feel free to access the test account to try it!
     1. **Email**: carlos@mail.com
     2. **Password**: Test*1234! 
 
-- 📫 How to reach me **brunochampiongalvez@gmail.com**
+<h2>Contact me 🫡</h2>
+<p align="justify">Feel free to contact ME, we can have A meeting to chat with nothing in return. I will be happy to help you in any way I can 🙌!</p>
 
-- 📄 CV: [https://docs.google.com/document/d/10pJBILXc1tA4IlmfwfubrIBFNkqiTFB54qohdMxJdJY/edit?usp=sharing](https://docs.google.com/document/d/10pJBILXc1tA4IlmfwfubrIBFNkqiTFB54qohdMxJdJY/edit?usp=sharing)
+<p>Email: brunochampiongalvez@gmail.com</p>
+<p>LinkedIn: www.linkedin.com/in/bruno-champion-gálvez-427aba188</p>
 
-- ⚡ Fun fact **I like playing basketball but I'm trash at it**
+<h2>Resume 📄</h2>
+https://docs.google.com/document/d/10pJBILXc1tA4IlmfwfubrIBFNkqiTFB54qohdMxJdJY/edit?usp=sharing
 
 <h3 align="left">Languages and Tools:</h3>
 1. AI APIs: OpenAI, Gemini, Pinecone (Vector database)
 2. Backend: NestJS, Express.js, PostgreSQL, MongoDB
 3. Frontend: Next.js, React.js, TailwindCSS, Vue.js
+
+<h2>Fun fact ⚡</h2> 
+<p>I like playing basketball but I'm trash at it</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunochampiongalvez&show_icons=true&locale=en" alt="brunochampiongalvez" /></p>
 
