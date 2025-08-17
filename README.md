@@ -14,7 +14,7 @@
 I’m the founder of PDFizz AI, an AI PDF assistant, take a look at https://pdfizzai.vercel.app/
 </br>
 </br>
-We are currently in a closed beta stage
+We are currently in a closed beta stage.
 </br>
 </br>
 BUT, feel free to access the test account to try it!
@@ -22,9 +22,9 @@ BUT, feel free to access the test account to try it!
 </br>
 Credentials:
 </br>
-    1. **Email**: carlos@mail.com
-    </br>
-    2. **Password**: Test*1234! 
+1. Email: carlos@mail.com
+</br>
+2. Password: Test*1234! 
 
 <h2>Contact me 🫡</h2>
 <p align="justify">Feel free to contact me, we can have a meeting to chat with nothing in return. I will be happy to help you in any way I can 🙌!</p>
