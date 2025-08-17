@@ -10,8 +10,8 @@
 <h2>What technologies do I use 🧑‍💻?</h2>
 <p align="justify">The techonologies that I work with are Next.js, React.js, NestJS, Express.js, PostgreSQL, MongoDB, and TailwindCSS.</p>
 
-<h2>Contact me 😃</h2>
-<p align="justify">Feel free to contact, we can have meeting to chat with nothing in return. I will be happy to help you in any way I can 🙌!</p>
+<h2>Contact me 🫡</h2>
+<p align="justify">Feel free to contact ME, we can have A meeting to chat with nothing in return. I will be happy to help you in any way I can 🙌!</p>
 
 <p>Email: brunochampiongalvez@gmail.com</p>
 <p>LinkedIn: [www.linkedin.com/in/bruno-champion-gálvez-427aba188](https://www.linkedin.com/in/bruno-champion-galvez-427aba188/)</p>
