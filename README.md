@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bruno</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Perú</h3>
+<h3 align="center">A passionate Full Stack Developer from Perú</h3>
 <br/>
 <h2>Who am I 🤓?</h2>
 <p align="justify">I love a few things in life: software, working out, and nature. In the morning I go to the gym, I code until 5-6 p.m., and then I go for a walk at the park to connect with nature.</p>
