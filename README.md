@@ -11,14 +11,18 @@
 <p align="justify">The techonologies that I work with are Next.js, React.js, NestJS, Express.js, PostgreSQL, MongoDB, and TailwindCSS.</p>
 
 <h2>Projects 🏗️</h2>
-- 📄 I’m the founder of **PDFizz AI**, an AI PDF assistant, take a look at [https://pdfizzai.vercel.app/](https://pdfizzai.vercel.app/)
+- 📄 I’m the founder of PDFizz AI, an AI PDF assistant, take a look at https://pdfizzai.vercel.app/
+</br>
   - We are currently in a closed beta stage
-  - **BUT**, feel free to access the test account to try it!
+  </br>
+  - BUT, feel free to access the test account to try it!
+  </br>
     1. **Email**: carlos@mail.com
+    </br>
     2. **Password**: Test*1234! 
 
 <h2>Contact me 🫡</h2>
-<p align="justify">Feel free to contact ME, we can have A meeting to chat with nothing in return. I will be happy to help you in any way I can 🙌!</p>
+<p align="justify">Feel free to contact me, we can have a meeting to chat with nothing in return. I will be happy to help you in any way I can 🙌!</p>
 
 <p>Email: brunochampiongalvez@gmail.com</p>
 <p>LinkedIn: www.linkedin.com/in/bruno-champion-galvez-427aba188</p>
