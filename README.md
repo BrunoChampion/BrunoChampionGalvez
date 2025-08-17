@@ -21,7 +21,7 @@
 <p align="justify">Feel free to contact ME, we can have A meeting to chat with nothing in return. I will be happy to help you in any way I can 🙌!</p>
 
 <p>Email: brunochampiongalvez@gmail.com</p>
-<p>LinkedIn: www.linkedin.com/in/bruno-champion-gálvez-427aba188</p>
+<p>LinkedIn: www.linkedin.com/in/bruno-champion-galvez-427aba188</p>
 
 <h2>Resume 📄</h2>
 https://docs.google.com/document/d/10pJBILXc1tA4IlmfwfubrIBFNkqiTFB54qohdMxJdJY/edit?usp=sharing
