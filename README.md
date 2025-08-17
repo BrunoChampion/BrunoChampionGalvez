@@ -11,12 +11,17 @@
 <p align="justify">The techonologies that I work with are Next.js, React.js, NestJS, Express.js, PostgreSQL, MongoDB, and TailwindCSS.</p>
 
 <h2>Projects 🏗️</h2>
-- 📄 I’m the founder of PDFizz AI, an AI PDF assistant, take a look at https://pdfizzai.vercel.app/
+I’m the founder of PDFizz AI, an AI PDF assistant, take a look at https://pdfizzai.vercel.app/
 </br>
-  - We are currently in a closed beta stage
-  </br>
-  - BUT, feel free to access the test account to try it!
-  </br>
+</br>
+We are currently in a closed beta stage
+</br>
+</br>
+BUT, feel free to access the test account to try it!
+</br>
+</br>
+Credentials:
+</br>
     1. **Email**: carlos@mail.com
     </br>
     2. **Password**: Test*1234! 
