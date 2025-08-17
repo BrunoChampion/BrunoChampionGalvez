@@ -26,7 +26,7 @@
 <h2>Resume 📄</h2>
 https://docs.google.com/document/d/10pJBILXc1tA4IlmfwfubrIBFNkqiTFB54qohdMxJdJY/edit?usp=sharing
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools ⛏️</h2>
 1. AI APIs: OpenAI, Gemini, Pinecone (Vector database)
 </br>
 2. Backend: NestJS, Express.js, PostgreSQL, MongoDB
@@ -36,6 +36,6 @@ https://docs.google.com/document/d/10pJBILXc1tA4IlmfwfubrIBFNkqiTFB54qohdMxJdJY/
 <h2>Fun fact ⚡</h2> 
 <p>I like playing basketball but I'm trash at it.</p>
 
-<h2>GitHub Stats</h2>
+<h2>GitHub Stats 📈</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brunochampiongalvez&show_icons=true&locale=en" alt="brunochampiongalvez" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brunochampiongalvez&" alt="brunochampiongalvez" /></p>
