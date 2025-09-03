@@ -43,7 +43,7 @@ https://docs.google.com/document/d/10pJBILXc1tA4IlmfwfubrIBFNkqiTFB54qohdMxJdJY/
 3. Frontend: Next.js, React.js, TailwindCSS, Vue.js
 
 <h2>Fun fact ⚡</h2> 
-<p>I like playing basketball but I'm trash at it.</p>
+<p>I like playing basketball but I'm definetly not good at it.</p>
 
 <h2>Interesting fact 💡</h2> 
 <p>I'm currently studying a Bachelor's Degree in Psychology.</p>
