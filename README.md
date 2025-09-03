@@ -36,7 +36,7 @@ Credentials:
 https://docs.google.com/document/d/10pJBILXc1tA4IlmfwfubrIBFNkqiTFB54qohdMxJdJY/edit?usp=sharing
 
 <h2 align="left">Languages and Tools ⛏️</h2>
-1. AI APIs: OpenAI, Gemini, Pinecone (Vector database)
+1. AI APIs: OpenAI, Gemini, Perplexity, Pinecone (Vector database)
 </br>
 2. Backend: NestJS, Express.js, PostgreSQL, MongoDB
 </br>
